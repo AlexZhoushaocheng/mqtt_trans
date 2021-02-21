@@ -1,0 +1,14 @@
+{
+  "name": "qqt_ttrans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/main_trans.js",
+  "bin": {
+    "qqt_ttrans": "main_trans.js"
+  },
+  "scripts": {
+    "test": "node main_trans"
+  },
+  "author": "",
+  "license": "ISC"
+}
